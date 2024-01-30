@@ -1,2 +1,2 @@
-# ps_manage
-PS Test Scripts 
+# PowerShell tutorial
+Test powershell scripts 
