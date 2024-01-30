@@ -1,2 +1,2 @@
-# PowerShell tutorial
+# Powershell tutorial
 Test powershell scripts 
